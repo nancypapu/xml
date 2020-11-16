@@ -1,0 +1,33 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT Tracker (CovidCases)+>
+<!ATTLIST Tracker
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT CovidCases (date,name,age,gender,area,count)>
+<!ATTLIST CovidCases
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT date (#PCDATA)>
+<!ATTLIST date
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT age (#PCDATA)>
+<!ATTLIST age
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT gender (#PCDATA)>
+<!ATTLIST gender
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT area (#PCDATA)>
+<!ATTLIST area
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT count (#PCDATA)>
+<!ATTLIST count
+  xmlns CDATA #FIXED ''>

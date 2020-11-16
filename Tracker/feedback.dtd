@@ -1,0 +1,29 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT Tracker (feedback)+>
+<!ATTLIST Tracker
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT feedback (name,phone,email,feed,age)>
+<!ATTLIST feedback
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT phone (#PCDATA)>
+<!ATTLIST phone
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT email (#PCDATA)>
+<!ATTLIST email
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT feed (#PCDATA)>
+<!ATTLIST feed
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT age (#PCDATA)>
+<!ATTLIST age
+  xmlns CDATA #FIXED ''>

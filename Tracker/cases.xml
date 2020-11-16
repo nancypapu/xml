@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<!--<!DOCTYPE Tracker SYSTEM "cases.dtd">-->
+<?xml-stylesheet type="text/xsl" href="tracker.xsl" ?>
+
+<Tracker>
+
+<CovidCases>
+<date>22/11/20</date>
+<name>ram</name>
+<age>22</age>
+<gender>male</gender>
+<area>k.k nagar</area>
+<count>12</count>
+</CovidCases>
+
+<CovidCases>
+<date>23/11/20</date>
+<name>janani</name>
+<age>20</age>
+<gender>female</gender>
+<area>k.k nagar</area>
+<count>12</count>
+</CovidCases>
+
+
+<CovidCases>
+<date>23/11/20</date>
+<name>pradeepa</name>
+<age>25</age>
+<gender>female</gender>
+<area>anna nagar</area>
+<count>20</count>
+</CovidCases>
+
+
+<CovidCases>
+<date>25/11/20</date>
+<name>harish</name>
+<age>25</age>
+<gender>male</gender>
+<area>arapalayam</area>
+<count>2</count>
+</CovidCases>
+
+
+<CovidCases>
+<date>26/11/20</date>
+<name>shriram</name>
+<age>17</age>
+<gender>male</gender>
+<area>bypass</area>
+<count>3</count>
+</CovidCases>
+
+
+<CovidCases>
+<date>26/11/20</date>
+<name>suchi</name>
+<age>30</age>
+<gender>female</gender>
+<area>chokkikulam</area>
+<count>23</count>
+</CovidCases>
+
+
+<CovidCases>
+<date>27/11/20</date>
+<name>mandhra</name>
+<age>28</age>
+<gender>female</gender>
+<area>panayur</area>
+<count>1</count>
+</CovidCases>
+
+
+</Tracker>

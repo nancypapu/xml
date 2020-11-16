@@ -1,0 +1,37 @@
+[
+   {
+      "name": "jaanu",
+      "phone": "8765432134",
+      "email": "jaanuram96@gmail.com",
+      "feedback": "The website helps me to find out the daily cases details which is very helpful",
+      "age": "20"
+   },
+   {
+      "name": "vidhya",
+      "phone": "8776432134",
+      "email": "vidhyavox@gmail.com",
+      "feedback": "The website enables the user to understand and interact in an effective way",
+      "age": "20"
+   },
+   {
+      "name": "mariya",
+      "phone": "7687546633",
+      "email": "mariyajoseph@gmail.com",
+      "feedback": "Covid chatbot is quite interesting and appealing",
+      "age": "20"
+   },
+   {
+      "name": "anu",
+      "phone": "9876432134",
+      "email": "anumandu@gmail.com",
+      "feedback": "Quiz in this website helps us to gain knowledge about covid",
+      "age": "20"
+   },
+   {
+      "name": "samyuktha",
+      "phone": "6565473724",
+      "email": "samyukthacool@gmail.com",
+      "feedback": "The user interface is very user friendly and easy to use and navigate.",
+      "age": "20"
+   }
+]

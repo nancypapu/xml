@@ -1,0 +1,58 @@
+[
+   {
+      "date": "22/11/20",
+      "name": "ram",
+      "age": "22",
+      "gender": "male",
+      "area": "k.k nagar",
+      "count": "12"
+   },
+   {
+      "date": "23/11/20",
+      "name": "janani",
+      "age": "20",
+      "gender": "female",
+      "area": "k.k nagar",
+      "count": "12"
+   },
+   {
+      "date": "23/11/20",
+      "name": "pradeepa",
+      "age": "25",
+      "gender": "female",
+      "area": "anna nagar",
+      "count": "20"
+   },
+   {
+      "date": "25/11/20",
+      "name": "harish",
+      "age": "25",
+      "gender": "male",
+      "area": "arapalayam",
+      "count": "2"
+   },
+   {
+      "date": "26/11/20",
+      "name": "shriram",
+      "age": "17",
+      "gender": "male",
+      "area": "bypass",
+      "count": "3"
+   },
+   {
+      "date": "26/11/20",
+      "name": "suchi",
+      "age": "30",
+      "gender": "female",
+      "area": "chokkikulam",
+      "count": "23"
+   },
+   {
+      "date": "27/11/20",
+      "name": "mandhra",
+      "age": "28",
+      "gender": "female",
+      "area": "panayur",
+      "count": "1"
+   }
+]
